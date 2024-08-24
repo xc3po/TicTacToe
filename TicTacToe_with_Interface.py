@@ -246,8 +246,6 @@ def disable_buttons():
         for col in range(3):
             buttonsSpielfeld[row][col].config(state=tk.DISABLED)
 
-
-
 # Verstecke Hauptfesnter
 root.withdraw()
 
