@@ -33,4 +33,4 @@ Dieses Projekt kann als Ausgangspunkt für weiterführende Ideen und Erweiterung
 
 ## Fazit
 
-Dieses Tic-Tac-Toe-Projekt ist ein großartiger Einstieg in die GUI-Programmierung mit Python. Es vermittelt grundlegende Konzepte wie Event-Handling, das Arbeiten mit grafischen Elementen und einfache Logik zur Spielsteuerung. Es eignet sich für Programmieranfänger, die ihre ersten Erfahrungen mit Python und GUI-Entwicklung machen möchten.
+Dieses Tic-Tac-Toe-Projekt ist ein großartiger Einstieg in die GUI-Programmierung mit Python.
