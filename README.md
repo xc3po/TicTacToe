@@ -1,6 +1,6 @@
 # Tic Tac Toe - Ein Beginner-Projekt mit Tkinter
 
-Dieses Projekt ist eine einfache Implementierung des klassischen Tic-Tac-Toe-Spiels in Python unter Verwendung der `tkinter`-Bibliothek zur Erstellung einer grafischen Benutzeroberfläche (GUI). Es eignet sich hervorragend für Einsteiger, die das Programmieren mit Python und die Verwendung von GUI-Elementen erlernen möchten.
+Dieses Projekt ist eine einfache Implementierung des klassischen Tic-Tac-Toe-Spiels in Python unter Verwendung der `tkinter`-Bibliothek zur Erstellung einer grafischen Benutzeroberfläche (GUI). 
 
 ## Projektübersicht
 
